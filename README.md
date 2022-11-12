@@ -1,3 +1,7 @@
+# URL for checking
+```
+http://mysec-webap-10xmsoguupyhy-913764000.us-east-1.elb.amazonaws.com/
+```
 ### How to run the supporting material?
 You can run the supporting material in two easy steps:
 ```bash
